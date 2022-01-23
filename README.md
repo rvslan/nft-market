@@ -1,4 +1,4 @@
-# Nft Marketplace using React.js & Polygon using hardhat
+# Nft Marketplace using React.js & Polygon & hardhat
 ![Krypto](https://github.com/rvslan/nft-market/blob/main/screenshot.png?raw=true)
 
 ## Steps to run
